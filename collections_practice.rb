@@ -39,4 +39,6 @@ end
   array.select{|string| string.start_with?("a")}
 end
   
-  def
+  def sum_array(array)
+    
+  end 
